@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|c:\\users\\user\\onedrive\\desktop\\test\\application1\\application1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\teachers_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\teachers_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|c:\\users\\user\\onedrive\\desktop\\test\\application1\\application1\\teachers_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\teachers_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\file_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\file_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\help_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\help_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\meinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\meinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|c:\\users\\user\\onedrive\\desktop\\test\\application1\\application1\\meinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668C40AA-EE17-473C-A3A3-6AB2C17C087B}|application1\\application1.csproj|solutionrelative:application1\\meinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "teachers_registrationform.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\teachers_registrationform.cs",
+              "RelativeDocumentMoniker": "application1\\teachers_registrationform.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\teachers_registrationform.cs",
+              "RelativeToolTip": "application1\\teachers_registrationform.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAvwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:40:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "meinmenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\meinmenu.cs",
+              "RelativeDocumentMoniker": "application1\\meinmenu.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\meinmenu.cs",
+              "RelativeToolTip": "application1\\meinmenu.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T10:22:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\File_Form.cs",
+              "RelativeDocumentMoniker": "application1\\File_Form.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\File_Form.cs [Design]",
+              "RelativeToolTip": "application1\\File_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:56:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Help_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\Help_form.cs",
+              "RelativeDocumentMoniker": "application1\\Help_form.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\Help_form.cs [Design]",
+              "RelativeToolTip": "application1\\Help_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:56:07.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registrationform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\registrationform.cs",
+              "RelativeDocumentMoniker": "application1\\registrationform.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\registrationform.cs [Design]",
+              "RelativeToolTip": "application1\\registrationform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:55:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\loginform.cs",
+              "RelativeDocumentMoniker": "application1\\loginform.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\loginform.cs [Design]",
+              "RelativeToolTip": "application1\\loginform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:55:30.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "meinmenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\meinmenu.cs",
+              "RelativeDocumentMoniker": "application1\\meinmenu.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\meinmenu.cs [Design]",
+              "RelativeToolTip": "application1\\meinmenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:55:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teachers_registrationform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\teachers_registrationform.cs",
+              "RelativeDocumentMoniker": "application1\\teachers_registrationform.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\test\\application1\\application1\\teachers_registrationform.cs [Design]",
+              "RelativeToolTip": "application1\\teachers_registrationform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:55:59.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
